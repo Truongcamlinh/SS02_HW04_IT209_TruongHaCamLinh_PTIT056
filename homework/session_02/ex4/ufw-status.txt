@@ -1,0 +1,5 @@
+CHƯA CÓ DỮ LIỆU TỪ DROPLET.
+
+Chạy lệnh sau trên Ubuntu Droplet để thay nội dung file này bằng bằng chứng thật:
+
+sudo ./collect-evidence.sh
